@@ -7,7 +7,7 @@
 ╚══════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚══╝╚══╝
 ```
 
-# Ultimate Image Compressor - Pure JavaScript, Zero Server
+# Client side image compressor - Pure JavaScript, Zero Server
 
 ---
 
